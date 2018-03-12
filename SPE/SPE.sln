@@ -17,9 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Data", "5.1 - Data", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - CrossCutting", "5.2 - CrossCutting", "{980AA4F8-E09C-46D1-BDFA-8B2AA06BCAE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPE.Domain", "src\SPE.Domain\SPE.Domain.csproj", "{846B00F0-728F-4C45-AAFC-94797D0B4B3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPE.Domain", "src\SPE.Domain\SPE.Domain.csproj", "{846B00F0-728F-4C45-AAFC-94797D0B4B3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPE.Domain.Core", "src\SPE.Domain.Core\SPE.Domain.Core.csproj", "{84374CF6-11EA-4A35-BFA3-D08EAC1CEA44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPE.Domain.Core", "src\SPE.Domain.Core\SPE.Domain.Core.csproj", "{84374CF6-11EA-4A35-BFA3-D08EAC1CEA44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
